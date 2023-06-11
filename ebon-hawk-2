@@ -1,0 +1,10 @@
+{
+  "name": "kotor 2 ebon hawk",
+  "description": "by mark griskey",
+  "author": "ManVanIran",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
